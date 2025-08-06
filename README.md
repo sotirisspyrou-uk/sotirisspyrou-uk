@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Cross-functional AI adoption
 
 ## 🛠️ Tech Stack
-Python • JavaScript • APIs • GA4 • BigQuery • AI/ML Tools
+Python • JavaScript • Next.js • APIs • GA4 • BigQuery • AI/ML Tools
 
 ## 📊 Impact
 - 40-70% ROI improvements through AI-driven marketing
