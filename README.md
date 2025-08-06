@@ -33,4 +33,4 @@ Python • JavaScript • APIs • GA4 • BigQuery • AI/ML Tools
 - Global marketing transformation (19+ countries)
 - AI governance implementation for regulated industries
 
-📧 sotirisspyrou@gmail.com | 🌐 verityai.co
+📧 https://www.linkedin.com/in/sspyrou/ | 🌐 verityai.co
