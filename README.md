@@ -1,43 +1,41 @@
-
-
-<!--
-**sotirisspyrou-uk/sotirisspyrou-uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Sotiris Spyrou 🚀
-** Tech Savvy Marketing Director & AI Transformation Consultant **
 
-25+ years driving growth through organic marketing, and digital transformation through AI implementation in regulated industies
+**Marketing Director & AI Transformation Consultant**
 
-## 🔧 Finance Services Portfolio Examples
- 🌐 [Financial Services > Bank Switching Facilitation > AI Agent](https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent)
- 🌐 [Fintech >  UK Capital Recommender System](https://github.com/sotirisspyrou-uk/UK-Capital-Recommender-System)
-## 🔧 Marketing Services Portfolio Examples
- 🌐 [Referral Marketing > Enterprise-Grade MLM platform ](https://github.com/sotirisspyrou-uk/configurable-mlm-system)
-  🌐 [Advanced AI-powered account-based marketing system with configurable intelligence modules](https://github.com/sotirisspyrou-uk/ABM-Account-Based-Marketing-System)
-## 🔧 Current Focus
-- Fintech
+25+ years driving growth through precision marketing and digital transformation with AI implementation in regulated industries
+
+## 🏦 Financial Services Portfolio
+
+🌐 [Bank Switching Facilitation AI Agent](https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent)  
+🌐 [UK Capital Recommender System](https://github.com/sotirisspyrou-uk/UK-Capital-Recommender-System)
+
+## 📈 Marketing Technology Portfolio
+
+🌐 [Enterprise-Grade MLM Platform](https://github.com/sotirisspyrou-uk/configurable-mlm-system)  
+🌐 [AI-Powered Account-Based Marketing System](https://github.com/sotirisspyrou-uk/ABM-Account-Based-Marketing-System)
+
+## 🎯 Current Focus
+
+- Fintech & financial services growth
 - AI governance & compliance frameworks
 - Marketing automation & optimization
-- Technical SEO at scale
-- Cross-functional AI adoption
+- Technical SEO at enterprise scale
+- Cross-functional AI adoption strategies
 
 ## 🛠️ Tech Stack
-Python • JavaScript • Next.js • APIs • GA4 • BigQuery • AI/ML Tools
 
-## 📊 Impact
-- 40-70% ROI improvements through AI-driven marketing
-- Global marketing transformation (19+ countries)
-- AI governance implementation for regulated industries
+**Languages:** Python • JavaScript  
+**Frameworks:** Next.js • APIs  
+**Analytics:** GA4 • BigQuery  
+**AI/ML:** OpenAI • Anthropic • Custom ML models
 
-📧 https://www.linkedin.com/in/sspyrou/ | 🌐 https://verityai.co
+## 📊 Proven Impact
+
+- **40-70% ROI improvements** through AI-driven marketing strategies
+- **Global marketing transformation** across 19+ countries
+- **AI governance implementation** for regulated industries
+- **Crisis recovery leadership** - restored pre-pandemic revenue in 9 months
+
+## 🤝 Connect
+
+📧 [LinkedIn](https://www.linkedin.com/in/sspyrou/) | 🌐 [VerityAI Blog](https://verityai.co)
