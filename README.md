@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Sotiris Spyrou 🚀
-**AI Transformation Consultant | Marketing Technology Leader**
+** Tech Savvy Marketing Director & AI Transformation Consultant **
 
-25+ years driving digital transformation through AI implementation and organic growth strategies.
+25+ years driving growth through organic marketing, and digital transformation through AI implementation in regulated industies
+
+## 🔧 Portfolio Examples
+🌐 https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent
 
 ## 🔧 Current Focus
+- Fintech
 - AI governance & compliance frameworks
 - Marketing automation & optimization
 - Technical SEO at scale
