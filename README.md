@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## 🔧 Finance Services Portfolio Examples
  🌐 [Financial Services > Bank Switching Facilitation > AI Agent](https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent)
-# [Fintech >  UK Capital Recommender System](https://github.com/sotirisspyrou-uk/UK-Capital-Recommender-System)
+ 🌐 [Fintech >  UK Capital Recommender System](https://github.com/sotirisspyrou-uk/UK-Capital-Recommender-System)
 ## 🔧 Marketing Services Portfolio Examples
- 🌐 [Referral Marketing > Enterprise-Grade MLM platform ](https://github.com/sotirisspyrou-uk/configurable-mlm-system)) 
+ 🌐 [Referral Marketing > Enterprise-Grade MLM platform ](https://github.com/sotirisspyrou-uk/configurable-mlm-system)
   🌐 [Advanced AI-powered account-based marketing system with configurable intelligence modules](https://github.com/sotirisspyrou-uk/ABM-Account-Based-Marketing-System)
 ## 🔧 Current Focus
 - Fintech
