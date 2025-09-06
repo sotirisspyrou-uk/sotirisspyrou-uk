@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 25+ years driving growth through organic marketing, and digital transformation through AI implementation in regulated industies
 
-## 🔧 Portfolio Examples
-🌐 [https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent | # Financial Servcices > Bank Switching Facilitation > AI Agent]
+## 🔧 Finance Ser=vices Portfolio Examples
+ 🌐 [Financial Services > Bank Switching Facilitation > AI Agent](https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent)
 
 ## 🔧 Current Focus
 - Fintech
