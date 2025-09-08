@@ -6,7 +6,7 @@
 
 
 ## 📈 SEO & Marketing Strategic & Operational Leadership
-🌐 [AI Governance > VerityAI, Co-Founder, Marketing Director](https://verityai.co/)   
+🌐 [VerityAI, AI Governance, Co-Founder, Marketing Director](https://verityai.co/)   
 🌐 [Robert Half > Global Head of SEO & Content Startegy, 2020-2022](https://www.roberthalf.com/)    
 🌐 [Gamesys > Head of Search, 2010-2013](https://www.gamesysgroup.com/)   
 🌐 [Greenlight Digital > Head of SEO, 2006-2010](https://www.greenlightdigital.com/)   
