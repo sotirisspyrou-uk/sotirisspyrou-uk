@@ -1,4 +1,4 @@
-# Sotiris Spyrou 🚀
+# Sotiris Spyrou 
 
 **Marketing Director & AI Transformation Consultant**
 
