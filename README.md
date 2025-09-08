@@ -35,7 +35,7 @@
 
 🌐 [Agentic AI > Bank Switching Facilitation AI Agent](https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent)  
 🌐 [Predictive AI > UK Capital Recommender System](https://github.com/sotirisspyrou-uk/UK-Capital-Recommender-System)   
-🌐 [AI Investor Outreach Automation > Atomates and optimizes investor outreach for fundraising](https://github.com/sotirisspyrou-uk/AI-Investor-Outreach-Automation) 
+🌐 [AI Investor Outreach Automation > Atomates and optimizes investor outreach for fundraising](https://github.com/sotirisspyrou-uk/AI-Investor-Outreach-Automation)   
 🌐 [AI-powered platform > Transforms cold investor outreach through intelligent personalization](https://github.com/sotirisspyrou-uk/ai-investor-outreach-platform)
 
 ## 🎯 Current Focus
