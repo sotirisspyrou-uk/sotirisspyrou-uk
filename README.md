@@ -40,7 +40,7 @@
 🌐 [AI Investor Outreach Automation > Atomates and optimizes investor outreach for fundraising](https://github.com/sotirisspyrou-uk/AI-Investor-Outreach-Automation)   
 🌐 [AI-powered platform > Transforms cold investor outreach through intelligent personalization](https://github.com/sotirisspyrou-uk/ai-investor-outreach-platform)  
 🌐 [Insurance > Injury-Risk Analytics for Dance Schools](https://github.com/sotirisspyrou-uk/Injury-Risk-Analytics)  
-🌐 [Risk > Quantum Risk API- risk modeling platform for portfolio analytics and Monte Carlo simulations](https://github.com/sotirisspyrou-uk/Quantum-Risk-API)
+🌐 [Risk > Quantum Risk API- risk modeling platform for portfolio analytics and Monte Carlo simulations](https://github.com/sotirisspyrou-uk/Quantum-Risk-API)  
 🌐 [AI Comliance > AI Agent Validation Framework](https://github.com/sotirisspyrou-uk/AI-Agent-Validation-Framework)
 
 ## 🎯 Current Focus
