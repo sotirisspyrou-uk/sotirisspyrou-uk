@@ -4,19 +4,14 @@
 
 25+ years leading marketing transformation and AI implementation across regulated industries. Directing European PE portfolio marketing strategies for due diligence, turnaround and acceleration, plus serving as Fractional Marketing Director for UK scale-ups during growth phases.
 
-## 🏦 Financial Services, Goverance & Compliance Examples
 
-🌐 [Kashflow Accounting Software, Co-Founder & CMO, Acquired by IRIS in 2013](https://www.kashflow.com/)   
+## 📈 SEO & Marketing Strategic & Operational Leadership
 🌐 [AI Governance > VerityAI, Co-Founder, Marketing Director](https://verityai.co/)   
-🌐 [Agentic AI > Bank Switching Facilitation AI Agent](https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent)  
-🌐 [Predictive AI > UK Capital Recommender System](https://github.com/sotirisspyrou-uk/UK-Capital-Recommender-System)   
-
-
-## 📈 SEO & Marketing Leadership
-
 🌐 [Robert Half > Global Head of SEO & Content Startegy, 2020-2022](https://www.roberthalf.com/)    
 🌐 [Gamesys > Head of Search, 2010-2013](https://www.gamesysgroup.com/)   
 🌐 [Greenlight Digital > Head of SEO, 2006-2010](https://www.greenlightdigital.com/)   
+🌐 [Kashflow Accounting Software, Co-Founder & CMO, Acquired by IRIS in 2013](https://www.kashflow.com/)   
+
 
 **SEO Clients Supported**
 - [RBS](https://www.rbs.co.uk/)
@@ -28,10 +23,19 @@
 - [Hotels.com](https://www.hotels.com/)
 - [Expedia Group](https://expediagroup.com/)
 
-## 📈 Marketing Technology Examples
+## 📈 Hand's On, Tactial Marketing Technology Examples
 
 🌐 [Referral Engine > Enterprise-Grade MLM Platform](https://github.com/sotirisspyrou-uk/configurable-mlm-system)    
 🌐 [ABM Engine > AI-Powered Account-Based Marketing System](https://github.com/sotirisspyrou-uk/ABM-Account-Based-Marketing-System)   
+🌐 [Marketing Attribution Models > Advanced Multi-Touch Attribution & ROI Prediction Framework](https://github.com/sotirisspyrou-uk/marketing-attribution-models)  
+🌐 [MarTech Integration Hub: Universal Marketing Technology Integration & Workflow Automation Platform](https://github.com/sotirisspyrou-uk/martech-integration-hub)  
+🌐 [SEO Automation Suite > SEO Expertise Codified for Enterprise Scale](https://github.com/sotirisspyrou-uk/seo-automation-suite)
+
+## 🏦 Financial Services, Goverance & Compliance Examples
+
+🌐 [Agentic AI > Bank Switching Facilitation AI Agent](https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent)  
+🌐 [Predictive AI > UK Capital Recommender System](https://github.com/sotirisspyrou-uk/UK-Capital-Recommender-System)   
+
 ## 🎯 Current Focus
 
 - Fintech & financial services growth
