@@ -32,12 +32,16 @@
 🌐 [MarTech Integration Hub > Universal Marketing Technology Integration & Workflow Automation Platform](https://github.com/sotirisspyrou-uk/martech-integration-hub)  
 🌐 [SEO Automation Suite > SEO Expertise Codified for Enterprise Scale](https://github.com/sotirisspyrou-uk/seo-automation-suite)
 
+
 ## 🏦 Financial Services, Goverance & Compliance Tooling Examples
 
 🌐 [Agentic AI > Bank Switching Facilitation AI Agent](https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent)  
 🌐 [Predictive AI > UK Capital Recommender System](https://github.com/sotirisspyrou-uk/UK-Capital-Recommender-System)   
 🌐 [AI Investor Outreach Automation > Atomates and optimizes investor outreach for fundraising](https://github.com/sotirisspyrou-uk/AI-Investor-Outreach-Automation)   
-🌐 [AI-powered platform > Transforms cold investor outreach through intelligent personalization](https://github.com/sotirisspyrou-uk/ai-investor-outreach-platform)
+🌐 [AI-powered platform > Transforms cold investor outreach through intelligent personalization](https://github.com/sotirisspyrou-uk/ai-investor-outreach-platform)  
+🌐 [Insurance > Injury-Risk Analytics for Dance Schools](https://github.com/sotirisspyrou-uk/Injury-Risk-Analytics)  
+🌐 [Risk > Quantum Risk API- risk modeling platform for portfolio analytics and Monte Carlo simulations](https://github.com/sotirisspyrou-uk/Quantum-Risk-API)
+🌐 [AI Comliance > AI Agent Validation Framework](https://github.com/sotirisspyrou-uk/AI-Agent-Validation-Framework)
 
 ## 🎯 Current Focus
 
