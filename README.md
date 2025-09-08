@@ -11,12 +11,8 @@
 🌐 [Agentic AI > Bank Switching Facilitation AI Agent](https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent)  
 🌐 [Predictive AI > UK Capital Recommender System](https://github.com/sotirisspyrou-uk/UK-Capital-Recommender-System)   
 
-## 📈 Marketing Technology Examples
 
-🌐 [Referral Engine > Enterprise-Grade MLM Platform](https://github.com/sotirisspyrou-uk/configurable-mlm-system)    
-🌐 [ABM Engine > AI-Powered Account-Based Marketing System](https://github.com/sotirisspyrou-uk/ABM-Account-Based-Marketing-System)   
-
-## 📈 SEO Marketing Examples
+## 📈 SEO & Marketing Leadership
 
 🌐 [Robert Half > Global Head of SEO & Content Startegy, 2020-2022](https://www.roberthalf.com/)    
 🌐 [Gamesys > Head of Search, 2010-2013](https://www.gamesysgroup.com/)   
@@ -32,6 +28,10 @@
 - [Hotels.com](https://www.hotels.com/)
 - [Expedia Group](https://expediagroup.com/)
 
+## 📈 Marketing Technology Examples
+
+🌐 [Referral Engine > Enterprise-Grade MLM Platform](https://github.com/sotirisspyrou-uk/configurable-mlm-system)    
+🌐 [ABM Engine > AI-Powered Account-Based Marketing System](https://github.com/sotirisspyrou-uk/ABM-Account-Based-Marketing-System)   
 ## 🎯 Current Focus
 
 - Fintech & financial services growth
