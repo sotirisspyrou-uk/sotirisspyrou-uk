@@ -23,7 +23,7 @@
 - [Hotels.com](https://www.hotels.com/)
 - [Expedia Group](https://expediagroup.com/)
 
-## 📈 Hand's On, Tactial Marketing Technology Examples 7 Samples
+## 📈 Hand's On, Tactial Marketing Technology Examples & Samples
 
 🌐 [Referral Engine > Enterprise-Grade MLM Platform](https://github.com/sotirisspyrou-uk/configurable-mlm-system)    
 🌐 [ABM Engine > AI-Powered Account-Based Marketing System](https://github.com/sotirisspyrou-uk/ABM-Account-Based-Marketing-System)   
