@@ -26,7 +26,7 @@
 ## 📈 Hand's On, Tactial Marketing Technology Examples & Samples
 
 🌐 [Referral Engine > Enterprise-Grade MLM Platform](https://github.com/sotirisspyrou-uk/configurable-mlm-system)    
-🌐 [ABM & Organic Content Marketing Engine. Pecision ABM for B2B. Persona based content experiences, buyer journeys, pipeline velocity, value-driven engagement](https://github.com/sotirisspyrou-uk/ABM-Content-Marketing-Engine)  
+🌐 [ABM & Organic Content Marketing Engine. Pecision ABM for B2B. Persona based journeys, and value-driven engagement](https://github.com/sotirisspyrou-uk/ABM-Content-Marketing-Engine)  
 🌐 [ABM Engine > AI-Powered Account-Based Marketing System](https://github.com/sotirisspyrou-uk/ABM-Account-Based-Marketing-System)   
 🌐 [ABM Engine > The Pre-Suader AI Agent](https://github.com/sotirisspyrou-uk/The-Pre-Suader-AI-Agent)  
 🌐 [Marketing Attribution Models > Advanced Multi-Touch Attribution & ROI Prediction Framework](https://github.com/sotirisspyrou-uk/marketing-attribution-models)  
