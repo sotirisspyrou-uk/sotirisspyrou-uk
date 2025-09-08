@@ -7,14 +7,14 @@
 ## 🏦 Financial Services, Goverance & Compliance Examples
 
 🌐 [Kashflow Accounting Software, Co-Founder & CMO, Acquired by IRIS in 2013](https://www.kashflow.com/)   
-🌐 [VerityAI, Co-Founder, Marketing Director](https://verityai.co/)   
-🌐 [Bank Switching Facilitation AI Agent](https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent)  
-🌐 [UK Capital Recommender System](https://github.com/sotirisspyrou-uk/UK-Capital-Recommender-System)   
+🌐 [AI Governance > VerityAI, Co-Founder, Marketing Director](https://verityai.co/)   
+🌐 [Agentic AI > Bank Switching Facilitation AI Agent](https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent)  
+🌐 [Predictive AI > UK Capital Recommender System](https://github.com/sotirisspyrou-uk/UK-Capital-Recommender-System)   
 
 ## 📈 Marketing Technology Examples
 
-🌐 [**Referral Engine** > Enterprise-Grade MLM Platform](https://github.com/sotirisspyrou-uk/configurable-mlm-system)    
-🌐 [**ABM Engine** > AI-Powered Account-Based Marketing System](https://github.com/sotirisspyrou-uk/ABM-Account-Based-Marketing-System)   
+🌐 [Referral Engine > Enterprise-Grade MLM Platform](https://github.com/sotirisspyrou-uk/configurable-mlm-system)    
+🌐 [ABM Engine > AI-Powered Account-Based Marketing System](https://github.com/sotirisspyrou-uk/ABM-Account-Based-Marketing-System)   
 
 ## 📈 SEO Marketing Examples
 
