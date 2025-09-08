@@ -7,6 +7,7 @@
 
 ## 📈 SEO & Marketing Strategic & Operational Leadership
 🌐 [VerityAI, AI Governance, Co-Founder, Marketing Director, 2024-present](https://verityai.co/)   
+🌐 [Singulier, High Impact Value Creation for Europea PE Clients , 2022-2024]((https://www.singulier.co/)   
 🌐 [Robert Half > Global Head of SEO & Content Strategy, Digital Marketing & Transformation, 2020-2022](https://www.roberthalf.com/)    
 🌐 [Gamesys > Head of Search, 2010-2013](https://www.gamesysgroup.com/)   
 🌐 [Greenlight Digital > Head of SEO, 2006-2010](https://www.greenlightdigital.com/)   
