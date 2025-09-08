@@ -28,10 +28,10 @@
 🌐 [Referral Engine > Enterprise-Grade MLM Platform](https://github.com/sotirisspyrou-uk/configurable-mlm-system)    
 🌐 [ABM Engine > AI-Powered Account-Based Marketing System](https://github.com/sotirisspyrou-uk/ABM-Account-Based-Marketing-System)   
 🌐 [Marketing Attribution Models > Advanced Multi-Touch Attribution & ROI Prediction Framework](https://github.com/sotirisspyrou-uk/marketing-attribution-models)  
-🌐 [MarTech Integration Hub: Universal Marketing Technology Integration & Workflow Automation Platform](https://github.com/sotirisspyrou-uk/martech-integration-hub)  
+🌐 [MarTech Integration Hub > Universal Marketing Technology Integration & Workflow Automation Platform](https://github.com/sotirisspyrou-uk/martech-integration-hub)  
 🌐 [SEO Automation Suite > SEO Expertise Codified for Enterprise Scale](https://github.com/sotirisspyrou-uk/seo-automation-suite)
 
-## 🏦 Financial Services, Goverance & Compliance Examples
+## 🏦 Financial Services, Goverance & Compliance Tooling Examples
 
 🌐 [Agentic AI > Bank Switching Facilitation AI Agent](https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent)  
 🌐 [Predictive AI > UK Capital Recommender System](https://github.com/sotirisspyrou-uk/UK-Capital-Recommender-System)   
