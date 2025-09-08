@@ -7,7 +7,7 @@
 ## 🏦 Financial Services, Goverance & Compliance Examples
 
 🌐 [Kashflow Accounting Software, Co-Founder & CMO, Acquired by IRIS in 2013](https://www.kashflow.com/)   
-🌐 [VerityAI, Co-Founder, Marketing Director](https://verityai.co/) 
+🌐 [VerityAI, Co-Founder, Marketing Director](https://verityai.co/)   
 🌐 [Bank Switching Facilitation AI Agent](https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent)  
 🌐 [UK Capital Recommender System](https://github.com/sotirisspyrou-uk/UK-Capital-Recommender-System)   
 
