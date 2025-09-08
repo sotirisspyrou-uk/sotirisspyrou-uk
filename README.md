@@ -22,7 +22,7 @@
 🌐 [Gamesys > Head of Search, 2010-2013](https://www.gamesysgroup.com/)   
 🌐 [Greenlight Digital > Head of SEO, 2006-2010](https://www.greenlightdigital.com/)   
 
-** SEO Clients Supported**
+**SEO Clients Supported**
 - [RBS](https://www.rbs.co.uk/)
 - [Natwest](https://www.natwest.com/)
 - [HSBC](https://www.hsbc.co.uk/)
