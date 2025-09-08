@@ -23,7 +23,7 @@
 - [Hotels.com](https://www.hotels.com/)
 - [Expedia Group](https://expediagroup.com/)
 
-## 📈 Hand's On, Tactial Marketing Technology Examples
+## 📈 Hand's On, Tactial Marketing Technology Examples 7 Samples
 
 🌐 [Referral Engine > Enterprise-Grade MLM Platform](https://github.com/sotirisspyrou-uk/configurable-mlm-system)    
 🌐 [ABM Engine > AI-Powered Account-Based Marketing System](https://github.com/sotirisspyrou-uk/ABM-Account-Based-Marketing-System)   
@@ -33,7 +33,7 @@
 🌐 [SEO Automation Suite > SEO Expertise Codified for Enterprise Scale](https://github.com/sotirisspyrou-uk/seo-automation-suite)
 
 
-## 🏦 Financial Services, Goverance & Compliance Tooling Examples
+## 🏦 Financial Services, Goverance & Compliance Tooling Examples & Samples
 
 🌐 [Agentic AI > Bank Switching Facilitation AI Agent](https://github.com/sotirisspyrou-uk/financial-services-switching-cost-ai-agent)  
 🌐 [Predictive AI > UK Capital Recommender System](https://github.com/sotirisspyrou-uk/UK-Capital-Recommender-System)   
@@ -41,7 +41,9 @@
 🌐 [AI-powered platform > Transforms cold investor outreach through intelligent personalization](https://github.com/sotirisspyrou-uk/ai-investor-outreach-platform)  
 🌐 [Insurance > Injury-Risk Analytics for Dance Schools](https://github.com/sotirisspyrou-uk/Injury-Risk-Analytics)  
 🌐 [Risk > Quantum Risk API- risk modeling platform for portfolio analytics and Monte Carlo simulations](https://github.com/sotirisspyrou-uk/Quantum-Risk-API)  
-🌐 [AI Comliance > AI Agent Validation Framework](https://github.com/sotirisspyrou-uk/AI-Agent-Validation-Framework)
+🌐 [AI Comliance > AI Agent Validation Framework](https://github.com/sotirisspyrou-uk/AI-Agent-Validation-Framework)  
+🌐 [Tax > UKTax Optimization AI - MVP](https://github.com/sotirisspyrou-uk/Tax-Optimization-AI---MVP)  
+
 
 ## 🎯 Current Focus
 
